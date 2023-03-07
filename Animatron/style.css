@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+
+h1 {
+  color: tomato;
+  border: 1px dotted tomato;
+}
